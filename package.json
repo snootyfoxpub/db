@@ -6,5 +6,8 @@
   "repository": "git@github.com:snootyfoxpub/db.git",
   "author": "Artem Ignatyev",
   "private": false,
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "mysql2": "^2.2.5"
+  }
 }
