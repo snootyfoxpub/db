@@ -1,0 +1,10 @@
+{
+  "name": "@snooty/db",
+  "version": "0.1.0",
+  "description": "Snooty Database access helpers",
+  "main": "index.js",
+  "repository": "git@github.com:snootyfoxpub/db.git",
+  "author": "Artem Ignatyev",
+  "private": false,
+  "license": "BSD-3-Clause"
+}
