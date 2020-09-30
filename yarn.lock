@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@snooty/utils@^1.4.0":
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/@snooty/utils/-/utils-1.4.0.tgz#e9ff727cee09e0ef3869c0fb8a5fb4b62ac73e01"
+  integrity sha512-lHqQVLv2xCN/RQ85Wg2xJKnd3rlgW+sWYWMNqoYGOKWClK4a/jF0ewxolYkx2Qnss2eJQtHnSDkmiP3CZ67NuQ==
+
 denque@^1.4.1:
   version "1.4.1"
   resolved "https://registry.yarnpkg.com/denque/-/denque-1.4.1.tgz#6744ff7641c148c3f8a69c307e51235c1f4a37cf"
