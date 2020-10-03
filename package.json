@@ -1,6 +1,6 @@
 {
   "name": "@snooty/db",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Snooty Database access helpers",
   "main": "index.js",
   "repository": "git@github.com:snootyfoxpub/db.git",
