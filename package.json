@@ -9,6 +9,7 @@
   "license": "BSD-3-Clause",
   "dependencies": {
     "@snooty/utils": "^1.4.0",
+    "debug": "^4.2.0",
     "mysql2": "^2.2.5"
   }
 }
